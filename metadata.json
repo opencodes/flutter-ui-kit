@@ -1,0 +1,6 @@
+{
+  "name": "Flutter UI Kit & Design System",
+  "description": "An interactive Material 3 Design System and UI Component Storybook for Flutter, featuring premium minimalistic styling and exportable Dart widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
